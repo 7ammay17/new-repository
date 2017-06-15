@@ -1,5 +1,3 @@
-package simple;
-
 import java.util.Scanner;
 
 public class hello 
